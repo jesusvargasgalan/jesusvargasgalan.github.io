@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Bienvenido a mi perfil <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-You can use the [editor on GitHub](https://github.com/jesusvargasgalan/jesusvargasgalan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Soy Jesús Vargas Galán,soy el capitán de esta nave. Esta nave viaja a 🛰️  __27,580 km/h__ (o 17,130 mph). ¿Alucinante,eh?Bueno,agárrate bien porque vamos a ir a toda velocidad para conocer mi universo.
+  
+<details>
+  <summary><i> Click <b> AQUI </b> para saber mas sobre mi </i>
+<p align="center">  
+  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
+  <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
+</p> </summary>  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
+</p>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- 🔭 Actualmente estoy aprendiendo web en un curso impartido por E.O.I
+- ✨ Género : Hombre
+- 🛸 Estudios: I.E.S Campanilla
+- 🎼 Hobbies: Música , amigos y videojuegos
+![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=jesusvargasgalan&show_icons=true&hide_border=true)
 
-1. Numbered
-2. List
+Aquí se acaba el viaje a través de mi universo, si quieres contactar conmigo hazlo a través de Linkedin ---><a href="https://www.linkedin.com/in/jesus-vargas-galan-405516158/">
+  <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+</details>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p align="center">
+<img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
+</p>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jesusvargasgalan/jesusvargasgalan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
