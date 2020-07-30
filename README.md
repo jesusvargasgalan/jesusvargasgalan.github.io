@@ -37,4 +37,3 @@ Aquí se acaba el viaje a través de mi universo, si quieres contactar conmigo h
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
 </p>
 
-
