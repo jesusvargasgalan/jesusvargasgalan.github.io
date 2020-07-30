@@ -18,8 +18,11 @@ Soy Jesús Vargas Galán,soy el capitán de esta nave. Esta nave viaja a 🛰️
 
 
 - 🔭 Actualmente estoy aprendiendo web en un curso impartido por E.O.I
+</br>
 - ✨ Género : Hombre
+</br>
 - 🛸 Estudios: I.E.S Campanilla
+</br>
 - 🎼 Hobbies: Música , amigos y videojuegos
 ![Jesus's github stats](https://github-readme-stats.vercel.app/api?username=jesusvargasgalan&show_icons=true&hide_border=true)
 
